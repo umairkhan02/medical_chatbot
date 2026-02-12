@@ -4,7 +4,7 @@ setup(
     name='medical_chatbot',
     version='0.1.0',
     author='Umair Khan',
-    author_email='umairkhan@example.com',
+    author_email='umairkhan.ufk@gmail.com',
     packages=find_packages(), 
     install_requires=[]    
 )
